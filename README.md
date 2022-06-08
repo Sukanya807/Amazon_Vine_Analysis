@@ -18,7 +18,7 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 
 ## Results
 
-**- How many vine reviews and non-vine reviews were there?**
+- **How many vine reviews and non-vine reviews were there?**
 
 The number of total paid vine reviews - 82
 
