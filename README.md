@@ -54,6 +54,10 @@ Percentage of 5 star non-vine reviews - 51.76%
 
 Based on the results, we can conclude that there was no bias found in the reviews of the vine members for the automotive dataset. While only 40.24% of the paid members provided 5 star ratings, the percentage of non-paid members providing 5 star raings is much higher at 51.76%.
 
+Furthermore,if we remove the filters on the dataframe for total_votes>20 and helpful_votes/total_votes>=50% and analyze the percentage of paid vs unpaid five-star reviews as a whole, we can reach a similar conclusion.
+
+![](images/summary.png)
+
 
 
 
