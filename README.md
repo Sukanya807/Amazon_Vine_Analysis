@@ -11,10 +11,7 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 [Automotive](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Automotive_v1_00.tsv.gz) Dataset
 
 ## Tools Used
-PySpark
-
-Google Colab Notebooks
-
-Amazon Web Services RDS
-
-PostgreSQL(pgAdmin)
+- PySpark
+- Google Colab Notebooks
+- Amazon Web Services RDS
+- PostgreSQL(pgAdmin)
