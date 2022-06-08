@@ -18,7 +18,7 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 
 ## Results
 
-**1. How many vine reviews and non-vine reviews were there?**
+***1. How many vine reviews and non-vine reviews were there?***
 
 The number of total paid vine reviews - 82
 
@@ -28,7 +28,7 @@ The number of total unpaid vine reviews - 24,742
 
 ![](images/total_unpaid_count.png)
 
-**2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+***2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?***
 
 The number of vine reviews that were 5 stars - 33
 
@@ -37,3 +37,13 @@ The number of non-vine reviews that were 5 stars - 12,807
 ![](images/total_paid_5star_count.png)
 
 ![](images/total_unpaid_5star_count.png)
+
+***3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
+
+Percentage of 5 star vine reviews - 40.24%
+
+Percentage of 5 star non-vine reviews - 51.76%
+
+![](images/paid_5star_percentage.png)
+
+![](images/unpaid_fivestar_percentage.png)
