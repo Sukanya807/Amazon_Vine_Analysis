@@ -36,4 +36,4 @@ The number of non-vine reviews that were 5 stars - 12,807
 
 ![](images/total_paid_5star_count.png)
 
-![](images/total_paid_review_count.png)
+![](images/total_unpaid_5star_count.png)
