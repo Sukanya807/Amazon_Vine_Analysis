@@ -11,6 +11,8 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 
 AN AWS RDS database has been created with tables in pgAdmin. Using PySpark the dataframe has been transformed into four separate dataframes to match the table schema in pgAdmin. Then, the transformed data has been uploaded into appropriate tables in pgAdmin.
 
+![](images/sql_table_schema.png)
+
 ##### Deliverable 2
 
 This deliverable determines if there is any bias towards reviews that were written as part of the Vine program
