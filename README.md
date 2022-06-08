@@ -23,6 +23,6 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 The number of total paid vine reviews - 82
 The number of total unpaid vine reviews - 24,742
 
-![] (images/total_paid_review.png)
+![](images/total_paid_review.png)
 
 ![](images/total_unpaid_count.png)
