@@ -18,6 +18,8 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 
 ## Results
 
+Please note that for the purpose of this analysis, we had filtered our dataset by total_votes>20 and helpful_votes/total_votes greater than 50%.
+
 ***1. How many vine reviews and non-vine reviews were there?***
 
 The number of total paid vine reviews - 82
@@ -47,3 +49,14 @@ Percentage of 5 star non-vine reviews - 51.76%
 ![](images/paid_5star_percentage.png)
 
 ![](images/unpaid_fivestar_percentage.png)
+
+## Summary
+
+Based on the results, we can conclude that there was no bias found in the reviews of the vine members for the automotive dataset. While only 40.24% of the paid members provided 5 star ratings, the percentage of non-paid members providing 5 star raings is much higher at 51.76%.
+
+
+
+
+
+
+
