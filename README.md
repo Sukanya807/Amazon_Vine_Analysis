@@ -15,3 +15,14 @@ For this project, the Automotive databse was selected from the [Amazon Review Da
 - Google Colab Notebooks
 - Amazon Web Services RDS
 - PostgreSQL(pgAdmin)
+
+## Results
+
+- How many vine reviews and non-vine reviews were there?
+
+The number of total paid vine reviews - 82
+The number of total unpaid vine reviews - 24,742
+
+![] (images/ total_paid_review.png)
+
+![](images/total_unpaid_count.png)
